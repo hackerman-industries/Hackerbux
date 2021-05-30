@@ -1,6 +1,6 @@
 # Hackerbux
 
-![Hackerbux](https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![Hackerbux](https://i.redd.it/kj7a1je4dc271.png)
 
 [![Build Status](https://travis-ci.com/dogecoin/dogecoin.svg?branch=master)](https://travis-ci.com/dogecoin/dogecoin)
 
