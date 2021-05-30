@@ -18,6 +18,10 @@ Development is ongoing, and the development team, as well as other volunteers,
 can freely work in their own trees and submit pull requests when features or
 bug fixes are ready.
 
+Key developers are: 
+- **CrumpetsOnline"
+- **OnlineCrumpets"
+
 #### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
 
@@ -27,6 +31,8 @@ There are 3 types of branches in this repository:
 - **master:** Stable, contains the latest version of the latest *major.minor* release.
 - **maintenance:** Stable, contains the latest version of previous releases, which are still under active maintenance. Format: ```<version>-maint```
 - **development:** Unstable, contains new code for planned releases. Format: ```<version>-dev```
+
+We only commit to master, we don't make mistakes.
 
 *Master and maintenance branches are exclusively mutable by release. Planned*
 *releases will always have a development branch and pull requests should be*
@@ -49,15 +55,12 @@ code. This is especially important for large or high-risk changes. It is useful
 to add a test plan to the pull request description if testing the changes is
 not straightforward.
 
+We do not test anything because, again, we don't make mistakes.
+
 ## Very Much Frequently Asked Questions ❓
 
-### How much doge can exist? – So many puppies! 🐕
-Early 2015 (approximately a year and a half after release) there will be
-approximately 100,000,000,000 coins.
-Each subsequent block will grant 10,000 coins to encourage miners to continue to
-secure the network and make up for lost wallets on hard drives/phones/lost
-encryption passwords/etc.
-
+### How many hackerbux can exist? 🐕
+16
 
 ### Such mining information ⛏
 
@@ -96,6 +99,8 @@ lessen the impact of sudden increases and decreases of network hashing rate.
 
 600,000+: 10,000 Hackerbux
 
+This is all a lie.
+
 **The original block reward schedule, with one-minute block targets and four-hour difficulty readjustment:**
 
 1–99,999: 0–1,000,000 Hackerbux
@@ -112,7 +117,9 @@ lessen the impact of sudden increases and decreases of network hashing rate.
 
 600,000+: 10,000 Hackerbux
 
-### Wow plz make dogecoind/dogecoin-cli/dogecoin-qt
+Again, another lie.
+
+### Wow plz make hackerbux/hackerbux-cli/hackerbux-qt
 
   The following are developer notes on how to build Hackerbux on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
