@@ -6,7 +6,7 @@
 
 Hackerbux is a cryptocurrency like Bitcoin, although it does not use SHA256 as
 its proof of work (POW). Taking development cues from absolutely nothing.
-- **Website:** [dogecoin.com.](https://dogecoin.com)
+- **Website:** none yet :(
 
 ## License – Much license ⚖️
 Hackerbux Core is released under the terms of the MIT license. See
