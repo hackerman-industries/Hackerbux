@@ -19,8 +19,8 @@ can freely work in their own trees and submit pull requests when features or
 bug fixes are ready.
 
 Key developers are: 
-- **CrumpetsOnline"
-- **OnlineCrumpets"
+- **CrumpetsOnline**
+- **OnlineCrumpets**
 
 #### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
