@@ -26,11 +26,12 @@ Key developers are:
 Version numbers are following ```major.minor.patch``` semantics.
 
 #### Branches
-There are 3 types of branches in this repository:
+There are 4 types of branches in this repository:
 
 - **master:** Stable, contains the latest version of the latest *major.minor* release.
 - **maintenance:** Stable, contains the latest version of previous releases, which are still under active maintenance. Format: ```<version>-maint```
 - **development:** Unstable, contains new code for planned releases. Format: ```<version>-dev```
+- **funky:** Stable/Unstable, nobody really knows.
 
 We only commit to master, we don't make mistakes.
 
