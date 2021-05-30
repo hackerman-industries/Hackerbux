@@ -5,8 +5,7 @@
 [![Build Status](https://travis-ci.com/dogecoin/dogecoin.svg?branch=master)](https://travis-ci.com/dogecoin/dogecoin)
 
 Hackerbux is a cryptocurrency like Bitcoin, although it does not use SHA256 as
-its proof of work (POW). Taking development cues from Tenebrix and Litecoin,
-Hackerbux currently employs a simplified variant of scrypt.
+its proof of work (POW). Taking development cues from absolutely nothing.
 - **Website:** [dogecoin.com.](https://dogecoin.com)
 
 ## License – Much license ⚖️
